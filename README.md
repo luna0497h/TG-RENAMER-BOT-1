@@ -28,12 +28,12 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 
 [TODO 🤧](https://github.com/luna0497h/TG-RENAMER-BOT-1#todo-)
 
-[Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT#thanks-and-credits-)
+[Thanks And Credits 🎉](https://github.com/luna0497h/TG-RENAMER-BOT-1#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luna0497h/TG-RENAMER-BOT-1)
 
 ## WARNING ⚠️
 Direct Deploy via button not working?? Suspension issue??
