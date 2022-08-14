@@ -14,19 +14,19 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
 
 ## Mapping
-[Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT#deploy-to-heroku-)
+[Deploy to Heroku 🗳](https://github.com/luna0497h/TG-RENAMER-BOT-1#deploy-to-heroku-)
 
-[Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT#bot-features-)
+[Bot Features 🔥](https://github.com/luna0497h/TG-RENAMER-BOT-1#bot-features-)
 
-[Required Vars 💥](https://github.com/Ns-Bots/TG-RENAMER-BOT#required-vars-)
+[Required Vars 💥](https://github.com/luna0497h/TG-RENAMER-BOT-1#required-vars-)
 
-[Optional Vars 💬](https://github.com/Ns-Bots/TG-RENAMER-BOT#optional-vars-)
+[Optional Vars 💬](https://github.com/luna0497h/TG-RENAMER-BOT-1#optional-vars-)
 
-[Available Commands 🤖](https://github.com/Ns-Bots/TG-RENAMER-BOT#available-commands-)
+[Available Commands 🤖](https://github.com/luna0497h/TG-RENAMER-BOT-1#available-commands-)
 
-[Dev 🧑‍💻](https://github.com/Ns-Bots/TG-RENAMER-BOT#dev-)
+[Dev 🧑‍💻](https://github.com/luna0497h/TG-RENAMER-BOT-1#dev-)
 
-[TODO 🤧](https://github.com/Ns-Bots/TG-RENAMER-BOT#todo-)
+[TODO 🤧](https://github.com/luna0497h/TG-RENAMER-BOT-1#todo-)
 
 [Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT#thanks-and-credits-)
 
